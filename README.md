@@ -1,2 +1,2 @@
 # portfolio
- resume/portfolio for Halley Gissendanner
+ porfolio/resume for Halley Gissendanner
